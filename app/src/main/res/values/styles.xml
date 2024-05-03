@@ -1,0 +1,14 @@
+<resources>
+    <!-- تعريف مظهر التطبيق الأساسي -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <!-- تعيين الخط الافتراضي -->
+        <item name="android:typeface">sans</item>
+
+        <!-- تعيين حجم الخط الافتراضي -->
+        <item name="android:textSize">16sp</item>
+
+        <!-- تعيين نمط الخط الافتراضي -->
+        <item name="android:textStyle">normal</item>
+    </style>
+</resources>

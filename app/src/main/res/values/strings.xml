@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">firstapp</string>
+    <string name="login">LOGO</string>
+    <string name="enter_text">ENTER</string>
+    <string name="user_name">USER NAME</string>
+    <string name="password_text">5 NUMBERS ONLY</string>
+    <string name="button_text">MORE INFORMATION</string>
+    <string name="button3_text">ABOUT US</string>
+
+
+
+
+</resources>
